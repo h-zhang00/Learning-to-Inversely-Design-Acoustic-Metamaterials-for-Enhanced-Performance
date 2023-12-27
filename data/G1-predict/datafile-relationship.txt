@@ -1,0 +1,1 @@
+利用G1-inverse-predict.py通过”data-795-over0-82.csv“中的f_target进行结构参数反向设计，得到G1-predict文件夹中的“s_G1fine1predict-data-795-over0-82”，再进行FEM计算得到”data-s_G1fine1predict-data-795-over0-82“，最后进行分析得到“analysis-s_G1fine1predict-data-795-over0-82.xlsx”
